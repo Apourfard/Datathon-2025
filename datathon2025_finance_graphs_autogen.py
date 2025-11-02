@@ -97,4 +97,3 @@ if nb_loss > 0:
     plt.savefig(os.path.join(output_folder, "Top_10_Risk.png"))
 else:
     print("Aucune entreprise en perte. Graphique de risque non généré.")
-
