@@ -11,7 +11,7 @@ import os
 folder = r"C:/Users/.../Datathon_2025"
 
 # Chemins des fichiers
-composition_path = os.path.join(folder, "Composition_sp500.csv")
+composition_path = os.path.join(folder, "Compagnie_sp500.csv")
 stocks_path = os.path.join(folder, "Stocks_performance.csv")
 
 # Charger les fichiers
@@ -97,3 +97,4 @@ if nb_loss > 0:
     plt.savefig(os.path.join(output_folder, "Top_10_Risk.png"))
 else:
     print("Aucune entreprise en perte. Graphique de risque non généré.")
+
