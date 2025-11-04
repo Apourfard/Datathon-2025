@@ -11,7 +11,12 @@ The code automatically:
 - Generates clear and informative charts for visual analysis.  
 
 Databases are not included in this repository. Therefore, the file names, paths, and columns of the CSV files should be verified to ensure accurate data processing.
-[A video of the presentation in French is available on Google Drive](https://drive.google.com/file/d/1I-5St9fXMbJB5cmsFOw8hDVUu6FR1PRR/view?usp=sharing)
+
+<a href="https://drive.google.com/file/d/1I-5St9fXMbJB5cmsFOw8hDVUu6FR1PRR/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+A video of the presentation in French is available on Google Drive.
+</a>
+
+
 
 A video of the presentation in French is available on Google Drive at:https://drive.google.com/file/d/1I-5St9fXMbJB5cmsFOw8hDVUu6FR1PRR/view?usp=sharing
 
