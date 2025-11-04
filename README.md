@@ -11,3 +11,7 @@ The code automatically:
 - Generates clear and informative charts for visual analysis.  
 
 Databases are not included in this repository. Therefore, the file names, paths, and columns of the CSV files should be verified to ensure accurate data processing.
+
+These codes and presentations were created as part of team activities during the Polyfinances Datathon 2025 competition (Group 35). They have been personalized to avoid interfering with the competition’s legal participation rules. For complete information, please visit: https://github.com/Rayyan-Oumlil/ReguAI
+
+https://www.polyfinances.ca/en/datathon
