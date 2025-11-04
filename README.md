@@ -11,7 +11,7 @@ The code automatically:
 - Generates clear and informative charts for visual analysis.  
 
 Databases are not included in this repository. Therefore, the file names, paths, and columns of the CSV files should be verified to ensure accurate data processing.
-A video of the presentation in French is available on Google Drive at:https://drive.google.com/file/d/1I-5St9fXMbJB5cmsFOw8hDVUu6FR1PRR/view?usp=sharing
+A video of the presentation in French is available on Google Drive at: https://drive.google.com/file/d/1I-5St9fXMbJB5cmsFOw8hDVUu6FR1PRR/view?usp=sharing
 
 These codes and presentations were created as part of team activities during the Polyfinances Datathon 2025 competition (Group 35). They have been personalized to avoid interfering with the competition’s legal participation documents and rules. For complete information, please visit: https://github.com/Rayyan-Oumlil/ReguAI
 
